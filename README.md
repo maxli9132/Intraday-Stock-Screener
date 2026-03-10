@@ -107,12 +107,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Max Li - maxli9132@gmail.com
-
-Project Link: [https://github.com/bruhjuice/Intraday-Stock-Screener](https://github.com/bruhjuice/Intraday-Stock-Screener)
-
-
 
